@@ -11,3 +11,5 @@ Adaptation: added LeafCloud setup guidance, fictionalized visible author/demo id
 Build fix: removed the undefined Tailwind `link` utility from `src/styles/markdown.css`; the configured build then passed.
 
 pnpm 11.11.0 compatibility: pinned `packageManager`, set `minimumReleaseAge: 0`, and approved the `esbuild`, `sharp`, `@parcel/watcher`, and `swup` install scripts in `pnpm-workspace.yaml`. Set the visible profile to fictional student Asha Rao.
+
+Removed upstream-only maintainer files: .github/pull_request_template.md and CONTRIBUTING.md.

@@ -1,5 +1,5 @@
 # About
-This is the demo site for [Fuwari](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari).
+This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
 ::github{repo="asha-rao/fuwari"}
 

@@ -1,99 +1,58 @@
-# 🍥Fuwari  
-![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
-![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
-[![DeepWiki](https://img.shields.io/badge/DeepWiki-asha-rao%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/asha-rao/fuwari)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari?ref=badge_shield&issueType=license)
+# Fuwari — blog template
 
-A static blog template built with [Astro](https://astro.build).
+A bright, expressive blog for sharing what you are learning.
 
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+![Preview of the Fuwari template](.github/preview.webp)
 
-![Preview Image](https://raw.githubusercontent.com/asha-rao/resource/main/fuwari/home.png)
+[Author's demo](https://fuwari.vercel.app) · [All templates](https://leafcloud.in/templates/)
 
-🌏 README in
-[**中文**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.zh-CN.md) /
-[**日本語**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.ja.md) /
-[**한국어**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.ko.md) /
-[**Español**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.es.md) /
-[**ไทย**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.th.md) /
-[**Tiếng Việt**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.vi.md) /
-[**Bahasa Indonesia**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
+## Make it yours in one step
 
-## ✨ Features
+Paste this prompt into your coding agent:
 
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [x] Search functionality with [Pagefind](https://pagefind.app/)
-- [x] [Markdown extended features](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
-- [x] Table of contents
-- [x] RSS feed
-
-## 🚀 Getting Started
-
-1. Create your blog repository:
-    - [Generate a new repository](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/generate) from this template or fork this repository.
-    - Or run one of the following commands:
-       ```sh
-       npm create fuwari@latest
-       yarn create fuwari
-       pnpm create fuwari@latest
-       bun create fuwari@latest
-       deno run -A npm:create-fuwari@latest
-       ```
-2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
-    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
-
-## 📝 Frontmatter of Posts
-
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
----
+```text
+Set up the LeafCloud "Fuwari" template for me: fetch https://leafcloud.in/templates/fuwari.md and follow it step by step.
 ```
 
-## 🧩 Markdown Extended Syntax
+Works with Claude Code, Codex, Cursor, or any coding agent. It asks a few questions, fills in your details, and puts the site online at `<your-name>.leafcloud.app`.
 
-In addition to Astro's default support for [GitHub Flavored Markdown](https://github.github.com/gfm/), several extra Markdown features are included:
+## Or do it yourself
 
-- Admonitions ([Preview and Usage](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#admonitions))
-- GitHub repository cards ([Preview and Usage](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#github-repository-cards))
-- Enhanced code blocks with Expressive Code ([Preview](https://tpl-fuwari.leafcloud.app/posts/expressive-code/) / [Docs](https://expressive-code.com/))
+Choose **Use this template** on [GitHub](https://github.com/leafcloud-in/template-fuwari), or clone it:
 
-## ⚡ Commands
+```sh
+git clone https://github.com/leafcloud-in/template-fuwari.git
+cd template-fuwari
+pnpm install --frozen-lockfile
+pnpm run dev
+```
 
-All commands are run from the root of the project, from a terminal:
+The dev server prints a local address in your terminal. Open that address in a browser and leave the server running while you edit.
 
-| Command                    | Action                                              |
-|:---------------------------|:----------------------------------------------------|
-| `pnpm install`             | Installs dependencies                               |
-| `pnpm dev`                 | Starts local dev server at `localhost:4321`         |
-| `pnpm build`               | Build your production site to `./dist/`             |
-| `pnpm preview`             | Preview your build locally, before deploying        |
-| `pnpm check`               | Run checks for errors in your code                  |
-| `pnpm format`              | Format your code using Biome                        |
-| `pnpm new-post <filename>` | Create a new post                                   |
-| `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
-| `pnpm astro --help`        | Get help using the Astro CLI                        |
+Edit src/config.ts and src/content/posts/. Keep the existing design and replace the fictional sample details with your own.
 
-## ✏️ Contributing
+Before publishing, make a production build:
 
-Check out the [Contributing Guide](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
+```sh
+pnpm run build
+```
 
-## 📄 License
+When you are ready to publish, get LeafCloud access at [leafcloud.in](https://leafcloud.in) (join the waitlist or sign in), then install the CLI:
 
-This project is licensed under the MIT License.
+```sh
+curl -fsSL https://leafcloud.in/install.sh | sh
+leaf init --name <your-site> --yes
+leaf deploy --yes
+```
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari?ref=badge_large&issueType=license)
+LeafCloud will publish the site at `https://<your-site>.leafcloud.app`.
+
+The local preview is available at http://localhost:4321 for Astro templates or http://localhost:3000 for CV.
+
+## Changing it later
+
+Ask your agent: “add my new project and redeploy”. AGENTS.md tells it which files to update and how to build and publish again.
+
+## Credits
+
+Built on [saicaca/fuwari](https://github.com/saicaca/fuwari) by saicaca, under the MIT licence. The LICENSE file is unchanged. LeafCloud changes are listed in [LEAFCLOUD.md](LEAFCLOUD.md). The original project README is in [docs/UPSTREAM-README.md](docs/UPSTREAM-README.md).

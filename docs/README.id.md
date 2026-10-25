@@ -7,12 +7,12 @@ Template blog statis yang dibangun dengan [Astro](https://astro.build).
 ![Gambar Pratinjau](https://raw.githubusercontent.com/asha-rao/resource/main/fuwari/home.png)
 
 🌏 README dalam
-[**中文**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.zh-CN.md) /
-[**日本語**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.ja.md) /
-[**한국어**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.ko.md) /
-[**Español**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.es.md) /
-[**ไทย**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.th.md) /
-[**Tiếng Việt**](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.vi.md) /
+[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
+[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
+[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
+[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
+[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
+[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
 **Bahasa Indonesia (ini)** (Disediakan oleh komunitas, mungkin tidak selalu paling mutakhir)
 
 ## ✨ Fitur
@@ -30,7 +30,7 @@ Template blog statis yang dibangun dengan [Astro](https://astro.build).
 ## 🚀 Memulai
 
 1. Buat repositori blog kamu:
-    - [Generate repositori baru](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/generate) dari template ini atau fork repositori ini.
+    - [Generate repositori baru](https://github.com/saicaca/fuwari/generate) dari template ini atau fork repositori ini.
     - Atau jalankan salah satu perintah berikut:
        ```sh
         # npm
@@ -95,7 +95,7 @@ Semua perintah dijalankan dari root proyek, via terminal:
 
 ## ✏️ Kontribusi
 
-Lihat [Panduan Kontribusi](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/CONTRIBUTING.md) untuk detail tentang cara berkontribusi ke proyek ini.
+Lihat [Panduan Kontribusi](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) untuk detail tentang cara berkontribusi ke proyek ini.
 
 ## 📄 Lisensi
 
