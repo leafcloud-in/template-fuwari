@@ -13,3 +13,4 @@ Build fix: removed the undefined Tailwind `link` utility from `src/styles/markdo
 pnpm 11.11.0 compatibility: pinned `packageManager`, set `minimumReleaseAge: 0`, and approved the `esbuild`, `sharp`, `@parcel/watcher`, and `swup` install scripts in `pnpm-workspace.yaml`. Set the visible profile to fictional student Asha Rao.
 
 Removed upstream-only maintainer files: .github/pull_request_template.md and CONTRIBUTING.md.
+- Removed the upstream `.github/workflows` (the original project's CI, release and deploy jobs) so copies do not run them.
