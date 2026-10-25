@@ -4,7 +4,7 @@
 
 [**🖥️ ตัวอย่างการใช้งานจริง (Vercel)**](https://fuwari.vercel.app)
 
-![ภาพตัวอย่าง](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![ภาพตัวอย่าง](https://raw.githubusercontent.com/asha-rao/resource/main/fuwari/home.png)
 
 ## ✨ คุณสมบัติ
 
@@ -14,14 +14,14 @@
 - [x] ปรับแต่งสีธีมและแบนเนอร์ได้
 - [x] Responsive design (หน้าตาเว็บปรับเปลี่ยนตามขนาดจอ)
 - [x] ฟังก์ชันการค้นหา ขับเคลื่อนด้วย [Pagefind](https://pagefind.app/)
-- [x] [คุณสมบัติเพิ่มเติมสำหรับมาร์กดาวน์](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md#-markdown-extended-syntax)
+- [x] [คุณสมบัติเพิ่มเติมสำหรับมาร์กดาวน์](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/docs/README.th.md#-markdown-extended-syntax)
 - [x] สารบัญ
 - [x] RSS feed
 
 ## 🚀 เริ่มต้นใช้งาน
 
 1. สร้าง repository ใหม่สำหรับบล็อกของคุณ:
-    - [Generate repository ใหม่](https://github.com/saicaca/fuwari/generate) ขึ้นมาจากแม่แบบนี้ หรือจะ fork repository นี้ก็ได้
+    - [Generate repository ใหม่](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/generate) ขึ้นมาจากแม่แบบนี้ หรือจะ fork repository นี้ก็ได้
     - หรือจะสร้างโดยการเลือกรันคำสั่งต่อไปนี้ คำสั่งใดคำสั่งหนึ่ง:
        ```sh
        npm create fuwari@latest
@@ -55,9 +55,9 @@ lang: jp      # เขียนค่านี้เมื่อภาษาข�
 
 เดิมที Astro มีการสนับสนุน[ภาษามาร์กดาวน์แบบของ GitHub](https://github.github.com/gfm/) ไว้อยู่แล้ว แต่ Fuwari ได้เพิ่มเติมคุณสมบัติพิเศษอื่น ๆ เข้าไปอีก:
 
-- Admonitions หรือ กล่องข้อมูลพิเศษ ([ดูตัวอย่างและการใช้งาน](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
-- การ์ด GitHub Repository ([ดูตัวอย่างและการใช้งาน](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
-- บล็อกโค้ดขั้นสูง ด้วย Expressive Code ([ดูตัวอย่าง](https://fuwari.vercel.app/posts/expressive-code/) / [เอกสารประกอบ](https://expressive-code.com/))
+- Admonitions หรือ กล่องข้อมูลพิเศษ ([ดูตัวอย่างและการใช้งาน](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#admonitions))
+- การ์ด GitHub Repository ([ดูตัวอย่างและการใช้งาน](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#github-repository-cards))
+- บล็อกโค้ดขั้นสูง ด้วย Expressive Code ([ดูตัวอย่าง](https://tpl-fuwari.leafcloud.app/posts/expressive-code/) / [เอกสารประกอบ](https://expressive-code.com/))
 
 ## ⚡ คำสั่ง
 
@@ -77,7 +77,7 @@ lang: jp      # เขียนค่านี้เมื่อภาษาข�
 
 ## ✏️ การมีส่วนร่วม
 
-กรุณาอ่าน [แนวทางการมีส่วนร่วม](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) สำหรับรายละเอียดวิธีการมีส่วนร่วมในโปรเจกต์นี้
+กรุณาอ่าน [แนวทางการมีส่วนร่วม](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/CONTRIBUTING.md) สำหรับรายละเอียดวิธีการมีส่วนร่วมในโปรเจกต์นี้
 
 ## 📄 สัญญาอนุญาต
 

@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Fuwari](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="asha-rao/fuwari"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)

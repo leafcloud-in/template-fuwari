@@ -4,7 +4,7 @@ Un tema estático para blogs construido con [Astro](https://astro.build).
 
 [**🖥️ Demostración en Vivo (Vercel)**](https://fuwari.vercel.app)
 
-![Imagen de Vista Previa](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![Imagen de Vista Previa](https://raw.githubusercontent.com/asha-rao/resource/main/fuwari/home.png)
 
 ## ✨ Características
 
@@ -49,7 +49,7 @@ deno run -A npm:create-fuwari@latest
 
 ## 🚀 Cómo Usar 2
 
-1. [Genera un nuevo repositorio](https://github.com/saicaca/fuwari/generate) desde esta plantilla o haz un fork de este repositorio.
+1. [Genera un nuevo repositorio](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/generate) desde esta plantilla o haz un fork de este repositorio.
 2. Para editar tu blog localmente, clona tu repositorio, ejecuta `pnpm install` y `pnpm add sharp` para instalar las dependencias.
    - Instala [pnpm](https://pnpm.io) `npm install -g pnpm` si aún no lo tienes.
 3. Edita el archivo de configuración `src/config.ts` para personalizar tu blog.

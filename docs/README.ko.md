@@ -4,7 +4,7 @@
 
 [**🖥️미리보기 (Vercel)**](https://fuwari.vercel.app)
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![Preview Image](https://raw.githubusercontent.com/asha-rao/resource/main/fuwari/home.png)
 
 ## ✨ 특징
 
@@ -14,13 +14,13 @@
 - [x] 사용자 정의 가능한 테마 색상 및 배너
 - [x] 반응형 디자인
 - [x] [Pagefind](https://pagefind.app/)를 이용한 검색 기능
-- [x] [Markdown 확장 기능](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
+- [x] [Markdown 확장 기능](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
 - [x] 목차
 - [x] RSS 피드
 
 ## 🚀 시작하기
 1. 블로그 저장소를 생성하세요:
-   - 이 템플릿에서 [새 저장소를 생성](https://github.com/saicaca/fuwari/generate)하거나 이 저장소를 포크하세요.
+   - 이 템플릿에서 [새 저장소를 생성](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/generate)하거나 이 저장소를 포크하세요.
    - 또는 다음 명령어 중 하나를 실행하세요:
    ```sh
        npm create fuwari@latest
@@ -51,9 +51,9 @@ lang: jp      # 게시물의 언어가 `config.ts`의 사이트 언어와 다른
 ```
 ## 🧩 마크다운 확장 구문
 Astro의 기본 [GitHub Flavored Markdown](https://github.github.com/gfm/) 지원 외에도 몇 가지 추가적인 마크다운 기능이 포함되어 있습니다.
-- Admonitions ([미리보기 및 사용법](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
-- GitHub 저장소 카드 ([미리보기 및 사용법](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
-- Expressive Code를 사용한 향상된 코드 블록 ([미리보기](https://fuwari.vercel.app/posts/expressive-code/) / [문서](https://expressive-code.com/))
+- Admonitions ([미리보기 및 사용법](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#admonitions))
+- GitHub 저장소 카드 ([미리보기 및 사용법](https://tpl-fuwari.leafcloud.app/posts/markdown-extended/#github-repository-cards))
+- Expressive Code를 사용한 향상된 코드 블록 ([미리보기](https://tpl-fuwari.leafcloud.app/posts/expressive-code/) / [문서](https://expressive-code.com/))
 
 
 
@@ -74,9 +74,9 @@ Astro의 기본 [GitHub Flavored Markdown](https://github.github.com/gfm/) 지�
 | `pnpm astro --help`                 | Astro CLI를 사용하여 도움 받기                     |
 
 ## ✏️ 기여
-이 프로젝트에 기여하는 방법에 대한 자세한 내용은 [기여 가이드](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md)를 확인하세요.
+이 프로젝트에 기여하는 방법에 대한 자세한 내용은 [기여 가이드](https://github.com/LEAFCLOUD_ORG/template-fuwari/fuwari/blob/main/CONTRIBUTING.md)를 확인하세요.
 
 ## 📄 라이선스
 이 프로젝트는 MIT 라이선스에 따라 라이선스가 부여됩니다.
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_large&issueType=license)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fasha-rao%2Ffuwari?ref=badge_large&issueType=license)

@@ -1,0 +1,3 @@
+site = "tpl-fuwari"
+dir = "dist"
+build = "pnpm run build"
