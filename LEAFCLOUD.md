@@ -7,3 +7,5 @@
 - Preview: https://tpl-fuwari.leafcloud.app (not live: LeafCloud site limit)
 
 Adaptation: added LeafCloud setup guidance, fictionalized visible author/demo identity where found, and configured static output where required. Original visual design retained.
+
+Build fix: removed the undefined Tailwind `link` utility from `src/styles/markdown.css`; the configured build then passed.
